@@ -2,7 +2,7 @@
 
 `Financial metrics` – [дашборд для анализа основных финансовых показателей маркетплейса](https://datalens.yandex/ahy2okxwgs88w)
 
-Реализован в Yandex Datalens
+Реализован в ![DataLens](https://img.shields.io/badge/Yandex%20Datalens-FFCC00?style=flat&logo=yandex&logoColor=black)
 
 ### Структура дашборда
 
